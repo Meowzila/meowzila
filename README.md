@@ -1,3 +1,3 @@
 # Hello!
 
-### I like to learn programming concepts and common practices with personal projects!
+### I enjoy learning programming concepts and common practices through personal projects!

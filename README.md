@@ -1,3 +1,3 @@
 # Hello!
 
-### I enjoy learning programming concepts and common practices through personal projects!
+### This is a collection of some of my personal projects mostly involving Python.
